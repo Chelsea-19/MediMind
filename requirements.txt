@@ -1,0 +1,15 @@
+torch
+torchvision
+torchaudio
+transformers
+accelerate
+bitsandbytes
+qwen-vl-utils
+streamlit
+chromadb
+sentence-transformers
+modelscope
+pydantic
+pyyaml
+fpdf2
+gtts
