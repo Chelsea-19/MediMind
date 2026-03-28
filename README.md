@@ -1,4 +1,4 @@
-# MediMind Pro 🩺
+# MediMind 🩺
 
 **A risk-aware, evidence-grounded, multimodal medical assistant for Chinese patient education and preliminary triage support.**
 
